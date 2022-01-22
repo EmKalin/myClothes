@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823773791054",
+    "project_id": "clothes-78c6a",
+    "storage_bucket": "clothes-78c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823773791054:android:8a8fffae27d7b94eeb141f",
+        "android_client_info": {
+          "package_name": "com.example.mytesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823773791054-mhios35jvo4uqomshjh698kqadgh60tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhYwCv8bWMYDc3_3DpPMdRLy4vaAtLVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823773791054-mhios35jvo4uqomshjh698kqadgh60tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
